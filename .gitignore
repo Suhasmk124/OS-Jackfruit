@@ -1,0 +1,5 @@
+engine
+*.ko
+logs/
+rootfs-alpha/
+rootfs-base/
